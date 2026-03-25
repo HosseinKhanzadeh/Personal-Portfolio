@@ -153,7 +153,7 @@ export function AboutMe() {
               Career Objectives
             </h4>
             <p className="text-[color:var(--portfolio-brown)]">
-              To leverage my expertise in full-stack web development to create
+              To leverage my expertise in front-end web development to create
               innovative, user-centric solutions that drive business growth and
               enhance user experiences. I aim to contribute to forward-thinking
               teams where I can continue to grow as a developer while making a
