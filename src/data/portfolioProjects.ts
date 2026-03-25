@@ -101,8 +101,8 @@ export const academicProjects: PortfolioProject[] = [
     summary:
       "A responsive login page built with HTML, CSS, and JavaScript, focusing on layout structure, form design, and visual styling.",
     detail:
-      "This project is a responsive login interface designed as part of early frontend practice, focusing on layout composition, form structure, and visual styling. The page uses a two-column layout that adapts to smaller screens, presenting a centered login form alongside decorative imagery. The implementation explores input styling, hover effects, and basic form validation using native HTML attributes. While authentication is handled on the server side via PHP, this project highlights foundational UI construction and responsiveness.",
-    techStack: ["HTML", "CSS", "JavaScript", "PHP"],
+      "This project is a responsive login interface designed as part of early frontend practice, focusing on layout composition, form structure, and visual styling. The page uses a two-column layout that adapts to smaller screens, presenting a centered login form alongside decorative imagery. The implementation explores input styling, hover effects, and basic form validation using native HTML attributes, emphasizing foundational UI construction and responsiveness.",
+    techStack: ["HTML", "CSS", "JavaScript"],
     thumbnail: publicUrl("assets/images/portfolio-login.png"),
     githubUrl: "https://github.com/HosseinKhanzadeh/login1",
     highlights: [
